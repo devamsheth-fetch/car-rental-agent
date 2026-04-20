@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.json.bak
+
+# Agent storage
+agent*_data.json
+
+# Travelopro destination cache (regenerate with fetch_destinations.py)
+mcp-server/destinations.json
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/

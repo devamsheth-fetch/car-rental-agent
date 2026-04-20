@@ -1,0 +1,6 @@
+uagents
+mcp
+openai
+python-dotenv
+httpx
+stripe
